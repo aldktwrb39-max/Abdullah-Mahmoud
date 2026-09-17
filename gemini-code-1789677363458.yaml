@@ -1,0 +1,16 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # للاتصال بالإنترنت وجلب الآيات
+  http: ^1.2.0
+
+  # قاعدة بيانات محلية سريعة وخفيفة للتخزين بدون إنترنت
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # خطوط وتنسيق مريح للعين
+  google_fonts: ^6.1.0
+  share_plus: ^7.2.1
